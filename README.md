@@ -1,28 +1,15 @@
-# Optimización -1er Cuatrimestre de 2015 — Primer cuatrimestre de 2015
-
-## Equipo docente
-
-- **Clases teóricas:** Javier Etcheverry
-- **Clases prácticas:** Ignacio Ojea
+# Optimización — Primer cuatrimestre de 2015
 
 ## Prácticas
 
 - [2012](1erparcial2012.pdf)
 - [2014](Examen2014.pdf)
-- [.pdf](optimizacion0.pdf)
-- [.pdf](optimizacion1.pdf)
-- [.pdf](optimizacion2.pdf)
-- [.pdf](optimizacion3.pdf)
-- [.pdf](tp1.pdf)
-- [.pdf](tp2.pdf)
-
-## Bibliografía
-
-- Laboratorio
-- Es recomendable el uso de pen-drives o bien el envío de lo trabajado por correo electrónico.
-- Home » Enseñanza » Materias » Primer Cuatrimestre 2015 » Optimización » Optimización -1er Cuatrimestre de 2015 » Bibliografía
-- Optimización-1er Cuatrimestre de 2014
-- Bertsekas, D., Nonlinear programming. Athena Scientific, 2da edición 1999.
+- [optimizacion0.pdf](optimizacion0.pdf)
+- [optimizacion1.pdf](optimizacion1.pdf)
+- [optimizacion2.pdf](optimizacion2.pdf)
+- [optimizacion3.pdf](optimizacion3.pdf)
+- [tp1.pdf](tp1.pdf)
+- [tp2.pdf](tp2.pdf)
 
 ## Página original
 
